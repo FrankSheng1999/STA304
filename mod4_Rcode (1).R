@@ -1,4 +1,4 @@
-assign_3data<-read.csv("D:/??????/STA304/Final/hhw21.csv")
+assign_3data<-read.csv("D:/学习/STA304/Final/hhw21.csv")
 attach(assign_3data)
 N=length(handspan); N
 n=10
